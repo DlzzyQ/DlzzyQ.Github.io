@@ -1,0 +1,36 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6rem;
+  min-height: 100vh;
+  background-color: white;
+  width: 100%;
+}
+
+
+.searchButton {
+  width: 100%; 
+}
+
+.button1 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  margin-bottom: 100px;
+}
+
+.button2 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: end;
+  width: 800px;
+  gap: 5px;
+}
+
+.cssss {
+  color: black;
+  background-color: yellow;
+  
+}
